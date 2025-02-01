@@ -25,3 +25,22 @@
 23.Array&StringMethods
 
 
+git init
+git add README.md
+git commit -m "first commit"
+=> jpvirat635@gmail.com , username
+=> username ,password
+=>git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jayaparakash/gitproject.git
+git push -u origin main
+
+
+<!-- 
+git 
+   git commit
+ 
+ staging area  
+ 
+ gitHub
+ -->
